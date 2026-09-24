@@ -21,14 +21,14 @@ src/
 Conteúdo por curso:
 
 DIO — Formação Java básico:
-Nesse tópico foi trabalhado a classe Scanner para entrada de dados do usuário, declaração de variáveis para
-armazenamento de dados e estrutura condicional if-else, ao final foi executada uma saída formatada dependendo da
-condição atendida.
 
-DevDojo.Academy — Lógica de programação:
-Nesse tópico foi trabalhado a classe Scanner para entrada de dados do usuário, declaração de variáveis para
-armazenamento de dados e estrutura condicional if-else, ao final foi executada uma saída dependendo da
-condição atendida.
+    Entrada de dados via Scanner, declaração de variáveis, estrutura condicional if-else e formatação 
+    de saída de dados.
+
+DevDojo Academy — Lógica de programação:
+
+    Entrada de dados via Scanner, declaração de variáveis, estruturas condicionais if-else e switch case, e laços de 
+    repetição while.
 
 Sobre a organização:
 Este repositório agrupa código por conceito, não por curso. Isso significa que o mesmo tópico ensinado em cursos
