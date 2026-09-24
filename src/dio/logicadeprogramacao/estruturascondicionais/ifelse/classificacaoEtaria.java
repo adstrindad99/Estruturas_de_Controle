@@ -1,9 +1,9 @@
-package exercicio2;
+package dio.logicadeprogramacao.estruturascondicionais.ifelse;
 
 import java.time.LocalDate;
 import java.util.Scanner;
 
-public class Exercicio2 {
+public class classificacaoEtaria {
 
     public static void main(String[] args) {
         int anoAtual = LocalDate.now().getYear();

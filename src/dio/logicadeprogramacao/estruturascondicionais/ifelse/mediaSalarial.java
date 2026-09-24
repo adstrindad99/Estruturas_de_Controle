@@ -1,8 +1,8 @@
-package exercicio1;
+package dio.logicadeprogramacao.estruturascondicionais.ifelse;
 
 import java.util.Scanner;
 
-public class Exercicio1 {
+public class mediaSalarial {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
