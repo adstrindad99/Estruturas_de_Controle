@@ -1,13 +1,36 @@
-## Estruturas de controle em Java
-Segunda parte da formação prática e teórica da linguagem de programação Java na DIO(digital innovation one), abordando 
-temas como:
-* Estrutura Condicional If else e else if
-* Estrutura Condicional switch case
-* Estrutura de Repetição for
-* Estruturas de repetição while e do while
+## Estruturas de controle
+☕ Java
 
-## Exercícios propostos
-1. Escreva um código em que o úsuario informe o salário recebido dentre do período de três meses e calcule a media
-de salário recebido no periodo.
-2. Escreva um código em que o programa receba o ano do SO, o úsuario informe seu ano de nascimento e o programa faça sua
-classificação etária de acordo com a idade.
+Repositório de estudos sobre estruturas de controle, reunindo exercícios e exemplos praticados em diferentes cursos.
+
+Estrutura:
+```
+src/
+├── dio/
+│   └── logicadeprogramacao/
+        └── estruturascondicionais/
+           └── ifelse/
+└── devdojocurso/
+    └── logicadeprogramacao/
+        ├── estruturascondicionais/
+        │   ├── ifelse/
+        │   └── switchcase/
+        └── lacosderepeticao/
+            └── whiles/
+```
+Conteúdo por curso:
+
+DIO — Formação Java básico:
+Nesse tópico foi trabalhado a classe Scanner para entrada de dados do usuário, declaração de variáveis para
+armazenamento de dados e estrutura condicional if-else, ao final foi executada uma saída formatada dependendo da
+condição atendida.
+
+DevDojo.Academy — Lógica de programação:
+Nesse tópico foi trabalhado a classe Scanner para entrada de dados do usuário, declaração de variáveis para
+armazenamento de dados e estrutura condicional if-else, ao final foi executada uma saída dependendo da
+condição atendida.
+
+Sobre a organização:
+Este repositório agrupa código por conceito, não por curso. Isso significa que o mesmo tópico ensinado em cursos
+diferentes é reunido aqui, evitando duplicação de repositórios para o mesmo assunto.
+O histórico de commits preserva a evolução do código conforme os pacotes foram reorganizados.
